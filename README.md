@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something Azure Iot HUB, C#, Angular :wink:;
+- 👨🏽‍💻 I’m currently working on Azure, Iot HUB, Simulator, C#, Angular :wink:;
 - 🌱 I’m currently learning System Design; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@anujangooral@gmail.com];
