@@ -14,4 +14,14 @@
 AnujAngooral/AnujAngooral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something Azure Iot HUB, C#, Angular :wink:;
+- 🌱 I’m currently learning System Design; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@anujangooral@gmail.com];
+- 📝[Resume]()
+
+
 [![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=anujangooral&count_private=true&show_icons=true&theme=radical)](https://github.com/anujangooral)
