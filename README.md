@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning System Design; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@anujangooral@gmail.com];
-- 📝 <a href="https://medium.com/@anujangooral">@anujangooral - medium </a>
+- 📝 <a target="_blank" href="https://medium.com/@anujangooral">@anujangooral - medium </a>
 
 
 [![Anuj's github stats](https://github-readme-stats.vercel.app/api?username=anujangooral&count_private=true&show_icons=true&theme=radical)](https://github.com/anujangooral)
